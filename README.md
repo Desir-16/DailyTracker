@@ -30,13 +30,13 @@
 
 ## Screenshots
 
-| Dashboard | Habit tracker | Checklist | Analysis |
+| Dashboard | Habit tracker | Checklist | Wellness |
 |---|---|---|---|
-| ![Dashboard](screenshots/dark-dashboard.png) | ![Habit tracker](screenshots/dark-tracker.png) | ![Checklist](screenshots/dark-checklist.png) | ![Analysis](screenshots/dark-analysis-monthly.png) |
+| ![Dashboard](screenshots/01-dashboard.png) | ![Habit tracker](screenshots/02-tracker.png) | ![Checklist](screenshots/03-checklist.png) | ![Wellness](screenshots/04-wellness.png) |
 
-| Wellness | Profile and settings | Light dashboard | Light tracker |
+| Profile and settings | Daily analysis | Weekly analysis | Monthly analysis |
 |---|---|---|---|
-| ![Wellness](screenshots/dark-wellness.png) | ![Profile and settings](screenshots/dark-me.png) | ![Light dashboard](screenshots/light-dashboard.png) | ![Light tracker](screenshots/light-tracker.png) |
+| ![Profile and settings](screenshots/05-me.png) | ![Daily analysis](screenshots/06-analysis-daily.png) | ![Weekly analysis](screenshots/07-analysis-weekly.png) | ![Monthly analysis](screenshots/08-analysis-monthly.png) |
 
 ## Installation
 
@@ -56,4 +56,3 @@ Daily Tracker stores app information locally. Optional backups are written only 
 Copyright © 2026 S M Shaif Mahamud Shemon. All rights reserved.
 
 This repository distributes official executable releases and documentation. It does not publish the application source code or production signing credentials. See [LICENSE](LICENSE).
-
