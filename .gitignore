@@ -1,0 +1,19 @@
+# Never publish Android signing material or private credentials
+*.jks
+*.keystore
+keystore.properties
+local.properties
+*.pem
+*.p12
+*.key
+
+# Binary release files belong in GitHub Releases, not Git history
+*.apk
+*.aab
+
+# Local files
+.idea/
+*.iml
+Thumbs.db
+.DS_Store
+
