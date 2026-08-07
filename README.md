@@ -2,10 +2,10 @@
   <img src="app-icon.png" width="128" height="128" alt="Daily Tracker app icon">
 </p>
 
-<h1 align="center">Daily Tracker</h1>
+<h1 align="center">Daily Tracker APK – Offline Android Habit Tracker</h1>
 
 <p align="center">
-  A private, offline Android habit tracker, daily checklist, wellness log, reminder manager, and home-screen widget suite.
+  Daily Tracker is a free, private and offline Android habit tracker, daily checklist, task reminder, wellness log, analytics dashboard, and home-screen widget suite.
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 ## Installation
 
 1. Open the [latest release](https://github.com/Desir-16/DailyTracker/releases/latest).
-2. Download `DailyTracker-v1.7-Production.apk`.
+2. Download `DailyTracker-v2.1-Production.apk`.
 3. Compare its SHA-256 value with the supplied `SHA256.txt` file if desired.
 4. Open the APK on an Android device and allow installation from that download source when Android asks.
 
